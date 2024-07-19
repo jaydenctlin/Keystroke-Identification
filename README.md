@@ -39,6 +39,6 @@ Both the Basic CNN and Denoising Autoencoder with Classifier showed promising re
 
 ## Repository Structure
 
-- `Raw_data/`: Contains audio files.
 - `Code/`: Contains the implementations of the Basic CNN and Denoising Autoencoder with Classifier, as well as the script for importing audio data.
+- `Raw_data/`: Contains audio files.
 - `KeystrokeAnalysis.pdf`: Comprehensive analysis report.
